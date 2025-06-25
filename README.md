@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Divya Prakash</h1>
 <h3 align="center">Learner</h3>
 
-<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG80d2Y3NTFvOHdvZXB0cGxmbHF1a3NxMWc5a3N5MnV4c3hucDBoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif"> 
+<img align="center" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG80d2Y3NTFvOHdvZXB0cGxmbHF1a3NxMWc5a3N5MnV4c3hucDBoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif"> 
+
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dprakashh&label=Profile%20views&color=0e75b6&style=flat" alt="dprakashh" /> </p>
 
