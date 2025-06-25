@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Divya Prakash</h1>
 <h3 align="center">Learner</h3>
 
-<img align="center" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG80d2Y3NTFvOHdvZXB0cGxmbHF1a3NxMWc5a3N5MnV4c3hucDBoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif"> 
+<div align="center">
+  <img alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG80d2Y3NTFvOHdvZXB0cGxmbHF1a3NxMWc5a3N5MnV4c3hucDBoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif">
+</div>
 
 <br>
 
